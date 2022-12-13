@@ -1,1 +1,1 @@
-# group_1 Lets go
+# Oulun ammattikorkeakoulu ohjelmistokehityksen sovellusprojekti 2022
