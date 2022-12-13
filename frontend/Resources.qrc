@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>talvi.jpg</file>
+        <file>pix.jpg</file>
+    </qresource>
+</RCC>
