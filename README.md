@@ -1,1 +1,1 @@
-# Oulun ammattikorkeakoulu ohjelmistokehityksen sovellusprojekti 2022
+# Oulun Ammattikorkeakoulu  /	Ohjelmistokehityksen sovellusprojekti 2022
